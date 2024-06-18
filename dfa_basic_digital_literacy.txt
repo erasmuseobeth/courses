@@ -11,3 +11,221 @@ What you will learn
 6 Social Media Literacy: Understand the basics of social media platforms, privacy settings, and responsible online behavior.
 7 Digital Tools and Productivity Software: Familiarize yourself with common digital tools and productivity software, such as word processors, spreadsheets, and presentation software.
 8 Online Collaboration: Learn how to collaborate effectively with others using online platforms and tools, including cloud-based services.
+
+
+
+Course Content
+12 sections•90 lectures•6 hrs 56 mins 49 secs total length
+
+1 working with computers  
+
+1.1 Welcome
+0 hr 1 min 0 sec
+1.2 What is a computer?
+0 hr 1 min 0 sec
+1.3 Hardware Components
+0 hr 3 mins 0 sec
+1.4 Types of Computers
+0 hr 2 mins 0 sec
+1.5 External hardware
+0 hr 1 min 0 sec
+1.6 Bluetooth
+0 hr 2 mins 0 sec
+
+2 Operating Sytems
+
+2.1 What is an Operating System?
+0 hr 2 mins 0 sec
+2.2 Basics of Windows
+0 hr 5 mins 0 sec
+
+3 Navigation and file manageent
+
+3.1 File Explorer
+0 hr 5 mins 0 sec
+3.2 Working with the Mouse
+0 hr 2 mins 0 sec
+3.3 Managing and Organizing Windows
+0 hr 4 mins 0 sec
+3.4 Personalizing your Desktop
+0 hr 3 mins 0 sec
+3.5 Digital Assistant
+0 hr 2 mins 0 sec
+3.6 Accessibility Features
+0 hr 2 mins 0 sec
+3.7 Updating Your Windows OS
+0 hr 1 min 0 sec
+
+4 computer applications
+
+4.1 Introduction to Computer Applications
+0 hr 1 min 0 sec
+4.2 Opening and Saving Files
+0 hr 3 mins 0 sec
+4.3 Finding the Right Application
+0 hr 3 mins 0 sec
+4.4 Commands Within Applications
+0 hr 4 mins 0 sec
+4.5 Mobile Applications
+0 hr 2 mins 0 sec
+
+6 the internet and connectivity
+
+5.1 Account Management
+0 hr 3 mins 0 sec
+5.2 Password Management
+0 hr 3 mins 0 sec
+5.3 Basic Security Features
+0 hr 1 min 0 sec
+5.4 Creating Strong Passwords
+0 hr 2 mins 0 sec
+6.1 What is the Internet?
+0 hr 1 min 0 sec
+6.2 Wi-Fi
+0 hr 2 mins 0 sec
+6.3 Connecting to the Internet
+0 hr 2 mins 0 sec
+6.4 How to Connect to a Wi-Fi
+0 hr 2 mins 0 sec
+6.5 The World Wide Web (WWW)
+0 hr 1 min 0 sec
+6.6 Browsers
+0 hr 4 mins 0 sec
+6.7 Web Accessibility
+0 hr 3 mins 0 sec
+6.8 Shopping Online
+0 hr 3 mins 0 sec
+
+7 productivity tools
+
+7.1 Microsoft Office Suite
+0 hr 4 mins 0 sec
+7.2 Office Online
+0 hr 1 min 0 sec
+7.3 Introduction to Office Suite
+0 hr 2 mins 0 sec
+7.4 Searching in Microsoft Word
+0 hr 1 min 0 sec
+7.5 Working with Microsoft Word - Basics
+0 hr 2 mins 0 sec
+7.6 Text Formatting in Word
+0 hr 1 min 0 sec
+7.7 Editor Assistant in Word
+0 hr 2 mins 0 sec
+7.8 Find and Replace
+0 hr 1 min 0 sec
+7.9 Microsoft Word on Mobile
+0 hr 2 mins 0 sec
+7.10 Working with Microsoft Excel
+0 hr 2 mins 0 sec
+7.11 Creating a Simple Data Table
+0 hr 2 mins 0 sec
+7.12 Validating and Formatting Content in Excel
+0 hr 3 mins 0 sec
+7.13 Equations
+0 hr 2 mins 0 sec
+
+8 Accessing information online
+
+8.1 Search Engines
+0 hr 3 mins 0 sec
+8.2 Effective Search Techniques
+0 hr 2 mins 0 sec
+8.3 Evaluating Information
+0 hr 2 mins 0 sec
+
+9 media literacy and communicating
+
+9.1 Media Literacy
+0 hr 2 mins 0 sec
+9.2 Communicating Online
+0 hr 1 min 0 sec
+9.3 Online Safety and Phishing
+0 hr 4 mins 0 sec
+9.4 Communicating Safely Online
+0 hr 1 min 0 sec
+9.5 Avoid Oversharing
+0 hr 2 mins 0 sec
+9.6 Digital Footprint
+0 hr 2 mins 0 sec
+9.7 Handling Online Content Responsibly
+0 hr 1 min 0 sec
+9.8 Respect
+0 hr 1 min 0 sec
+9.9 Outlook
+0 hr 0 min 49 secs
+9.10 Contacts for Simplifying Email and Phone Conversations
+0 hr 2 mins 0 sec
+9.11 Contact Groups
+0 hr 1 min 0 sec
+9.12 Sending Attachments
+0 hr 1 min 0 sec
+9.13 Email Signature
+0 hr 2 mins 0 sec
+9.14 Searching and Filtering
+0 hr 1 min 0 sec
+9.15 Meetings on Outlook
+0 hr 1 min 0 sec
+
+10 collaboRATION
+
+10.1 Collaboration in Word
+0 hr 2 mins 0 sec
+10.2 Adding Comments
+0 hr 1 min 0 sec
+10.3 Tracking Changes
+0 hr 1 min 0 sec
+10.4 Cloud Services
+0 hr 1 min 0 sec
+10.5 Creating a OneDrive Account
+0 hr 1 min 0 sec
+10.6 Managing Files in OneDrive
+0 hr 1 min 0 sec
+10.7 Sharing Files from OneDrive
+0 hr 1 min 0 sec
+10.8 Uploading Files to OneDrive
+0 hr 1 min 0 sec
+10.9 Instant Messaging
+0 hr 1 min 0 sec
+
+11 microsoft 365
+
+11.1 Getting Started with Microsoft 365
+0 hr 1 min 0 sec
+11.2 Using Templates in Word
+0 hr 3 mins 0 sec
+11.3 Applying Styles in Word
+0 hr 2 mins 0 sec
+11.4 Changing Margins
+0 hr 2 mins 0 sec
+11.5 Creating PDF
+0 hr 2 mins 0 sec
+11.6 Printing
+0 hr 2 mins 0 sec
+11.7 Excel - Creating and Formatting Tables
+0 hr 4 mins 0 sec
+11.8 Excel - Sum Function
+0 hr 3 mins 0 sec
+11.9 Sorting Data in Excel
+0 hr 2 mins 0 sec
+11.10 Charts
+0 hr 2 mins 0 sec
+11.11 Managing Worksheets
+0 hr 2 mins 0 sec
+11.12 Managing and Editing Data
+0 hr 3 mins 0 sec
+11.13 PowerPoint - Creating Presentations
+0 hr 1 min 0 sec
+11.14 Designer Assistant
+0 hr 1 min 0 sec
+11.15 Applying Slide Layouts and Recording Slides
+0 hr 2 mins 0 sec
+11.16 Adding and Formatting Texts
+0 hr 1 min 0 sec
+11.17 Adding and Editing Pictures
+0 hr 3 mins 0 sec
+
+12 essentials in generative AI
+
+12.1 Career Essentials in Generative AI
+4 hrs 0 min 0 sec
