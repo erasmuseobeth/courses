@@ -1,0 +1,5 @@
+python
+computational thinking 
+programming fundamentals
+system design
+probelem solving
