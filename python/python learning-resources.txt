@@ -1,0 +1,43 @@
+links to videos you can watch on youtube or download
+i advice for you to download it locally to your system or phone to have easieracces , network and data availability isues
+
+PYTHON LINKS
+---------------------------------------------------
+https://www.youtube.com/watch?v=nLRL_NcnK-4&pp=ygUPcHl0aG9uIGJvb3RjYW1w
+https://www.youtube.com/watch?v=kqtD5dpn9C8&t=30s&pp=ygUPcHl0aG9uIGJvb3RjYW1w
+https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=109s&pp=ygUPcHl0aG9uIGJvb3RjYW1w
+https://www.youtube.com/@TechWithTim/playlists
+
+PYTHON BOOKS
+---------------------------------------------------
+go to a browser and search this books then download them
+think python pdf
+automate the boring stuff with python pdf
+python crahh course by Eric mattthe pdf
+
+JAVASCRIPT BOOKS
+--------------------------------------------------
+
+JAVASCRIPT LINKS 
+---------------------------------------------------
+https://www.youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V
+https://www.youtube.com/watch?v=zJSY8tbf_ys&pp=ygUPamF2YXNjcmlwdCBjYW1w
+https://www.youtube.com/watch?v=dX8396ZmSPk&pp=ygUNaHRtbCBjc3MgY2FtcA%3D%3D
+
+COMPUTER SCIENCE AND SOFTWARE ENGINEERING LINKS
+---------------------------------------------------
+https://www.youtube.com/watch?v=LfaMVlDaQ24&pp=ygUPamF2YXNjcmlwdCBjYW1w
+
+future slowly by slowly and more
+PATH for software engineering
+python javascript >> libaraires html css node express fastapi flask react next >> software engineering
+algorithms and data structures, programming, OS and system admin, Networking and datacom, embedded and iot eng,
+exploration  web dev, app, dev, mobile and desktop dev, embedded dev, ai ml and others
+
+
+MAIN RESOURCES for more info on any topiic youdont understand
+https://chatgpt.com/  ask it what you dont understand
+https://www.w3schools.com/   go to learn implified concept on many web technologies html, css, python etc
+https://developer.mozilla.org/en-US/docs/Learn_web_development   MDN docs  for more info on any javascript or web technology
+https://www.youtube.com/   for video eplanation of anythin concept you dont understand just search
+
